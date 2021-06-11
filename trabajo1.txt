@@ -1,2 +1,3 @@
 practica de repositorio.
+Agregando comentarios al trabajo 1.
 Solucionando conflictos.
